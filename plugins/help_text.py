@@ -79,7 +79,7 @@ async def start(bot,update):
                 ],
                 [
                     InlineKeyboardButton('Other Bots ™️', url='https://t.me/Mai_bOTs/17'),
-                    InlineKeyboardButton('Help ❔', url="t.me/{}?start=help".format(bot.username')
+                    InlineKeyboardButton('Help ❔', url='https://t.me/{}?start=help".format(bot.username')
                 ]
             ]
         ),
